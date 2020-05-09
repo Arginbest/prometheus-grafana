@@ -34,6 +34,7 @@ After sucessful installation you can log into Prometheus with :9090
 
 After sucessful installation log into Grafana with :3000
 
-![Untitled](https://user-images.githubusercontent.com/48735802/81483686-a50ff680-9205-11ea-8baa-560ba668db5e.png)
+<img width="750" alt="screen_shot_2020-05-09_at_2 39 52_pm" src="https://user-images.githubusercontent.com/48735802/81483728-f02a0980-9205-11ea-875d-ff1e46f2b636.png">
+
 
 In Grafama add DataSource-Prometheus. From there you can build a Dashboard with Graphs that you pick.
